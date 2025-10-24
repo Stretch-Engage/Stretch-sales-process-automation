@@ -1,2 +1,5 @@
-Name,StageName,CloseDate
-Demo Deal,Prospecting,2025-12-31
+Name,StageName,CloseDate,Amount,Type,Account.Name,Description
+StrutFabriken - 2025 Renewal,Proposal/Quote,2025-12-31,500000,Renewal,StrutFabriken,Renewal for 2025 with expanded automation scope
+Nordic Energy - New Supply Deal,Prospecting,2025-11-15,300000,New Business,Nordic Energy,Initial proposal for energy optimization solutions
+TechNord AS - Upgrade Project,Proposal/Quote,2025-10-30,150000,Upsell,TechNord AS,Upgrade of CRM automation package and dashboards
+Stretch Engage Internal Demo,Proposal/Quote,2025-12-01,10000,Internal,Stretch Engage Test,Internal demo opportunity for testing sales automation
