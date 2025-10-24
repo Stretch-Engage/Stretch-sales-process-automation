@@ -1,2 +1,6 @@
-Name,ProductCode,IsActive
-Widget A,WA-001,true
+Name,ProductCode,Description,IsActive,Family
+Industrial Sensor,IND-001,High-precision industrial sensor,true,Hardware
+Data Analytics Platform,DAT-002,Subscription-based analytics platform,true,Software
+Energy Management Module,ENM-003,Cloud-based energy monitoring solution,true,Software
+CRM License Tier 1,CRM-001,Base CRM license package,true,Software
+Automation Connector Kit,AUT-004,Hardware kit enabling IoT integrations,true,Hardware
