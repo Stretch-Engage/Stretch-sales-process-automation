@@ -1,0 +1,9 @@
+Stretch Consulting Proprietary – Internal Use Only
+
+Copyright (c) 2025 Stretch Consulting.
+
+This repository and its contents are proprietary to Stretch Consulting and are provided for internal demos,
+enablement, and client showcases. Redistribution, modification for external distribution, sublicensing,
+or public reuse is not permitted without written permission from Stretch Consulting.
+
+All trademarks, service marks, and logos are the property of their respective owners.
