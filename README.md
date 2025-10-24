@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="docs/assets/logo.png" alt="Stretch Engage" width="260"/>
+   <img src="https://raw.githubusercontent.com/stretch-consulting/stretch-sales-process-automation/main/docs/assets/logo.png" alt="Stretch Engage" width="260"/>
+</p>
+
 </p>
 
 # stretch-sales-process-automation
