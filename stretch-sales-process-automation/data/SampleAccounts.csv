@@ -1,2 +1,5 @@
-Name,BillingCountry
-Acme Corp,Norway
+Name,Industry,Phone,Website,Type,BillingStreet,BillingCity,BillingPostalCode,BillingCountry
+StrutFabriken,Manufacturing,+47 22 44 55 66,https://chemringnobel.no,Customer,Industriveien 14,Oslo,0150,Norway
+Nordic Energy,Utilities,+47 33 88 77 55,https://nordicenergy.no,Prospect,Storgata 9,Bergen,5003,Norway
+TechNord AS,Technology,+47 21 98 76 54,https://technord.no,Partner,Verkstedveien 3,Trondheim,7012,Norway
+Stretch Engage Test,Consulting,+47 55 22 11 00,https://stretch.no,Internal,Sandakerveien 130,Oslo,0484,Norway
