@@ -34,6 +34,6 @@ It provides a baseline for CRM automation and storytelling, allowing teams to de
 - **Includes:** Apex triggers, handlers, sample data, and ARES notification integration  
 - **Deployable To:** Any Salesforce org (Dev, Sandbox, or Production)  
 
-> This repository underpins Stretch Engage’s capability to deliver rapid, scalable CRM demonstrations that reflect enterprise-level quality and design.
+
 
 ---
