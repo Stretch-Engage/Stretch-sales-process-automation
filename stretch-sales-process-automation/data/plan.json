@@ -1,1 +1,17 @@
-{"records": []}
+[
+  {
+    "sobject": "Account",
+    "saveRefs": true,
+    "files": ["SampleAccounts.csv"]
+  },
+  {
+    "sobject": "Product2",
+    "saveRefs": true,
+    "files": ["SampleProducts.csv"]
+  },
+  {
+    "sobject": "Opportunity",
+    "resolveRefs": true,
+    "files": ["SampleOpportunities.csv"]
+  }
+]
