@@ -11,7 +11,7 @@ Unmanaged SFDX project with triggers and handlers to automate Opportunity → Qu
 
 ## 🚀 One‑Click Deploy
 
-[![Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/assets/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=stretch-consulting&repo=stretch-sales-process-automation)
+[![Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/assets/deploy.png)](<a href = 'https://githubsfdeploy.herokuapp.com?owner=stretch-consulting&repo=stretch-sales-process-automation' target = '_blank')
 
 Or deploy via CLI:
 
