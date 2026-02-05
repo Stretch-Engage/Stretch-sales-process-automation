@@ -1,5 +1,8 @@
 <p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Stretch-Engage/Stretch-sales-process-automation/main/stretch-engage-white-logo.png" alt="Stretch Engage Logo">
+</div>
+  
 </p>
 
 <h1 align="center">Stretch Sales Process Automation</h1>
