@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stretch-consulting/stretch-sales-process-automation/main/docs/assets/logo.png" 
-       alt="Stretch Engage" width="240"/>
+  <img src="https://raw.githubusercontent.com/Stretch-Engage/Stretch-sales-process-automation/main/stretch-engage-white-logo.png" alt="Stretch Engage Logo">
 </p>
 
 <h1 align="center">Stretch Sales Process Automation</h1>
